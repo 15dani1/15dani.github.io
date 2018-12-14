@@ -279,7 +279,9 @@ button {
  */
 img,
 video {
-	max-width: 60%;
+	margin-left: -70px;
+	padding:20px 0;
+	max-width: 56%;
 	height: auto;
 }
 

@@ -1,2 +1,2 @@
 # 15dani.github.io
-#index.html
+# This is the repo of my personal website.
